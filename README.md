@@ -30,7 +30,7 @@ La clase `Estudiante` encapsula la información de cada estudiante y sus calific
 
 ### Clase `GestorEstudiante`
 
-La clase `GestorEsti¿udiante` contiene el método principal (`main`) que gestiona el flujo de la aplicación, mostrando un menú interactivo que permite al usuario:
+La clase `GestorEstudiante` contiene el método principal (`main`) que gestiona el flujo de la aplicación, mostrando un menú interactivo que permite al usuario:
 
 1. **Agregar estudiantes**: Registrar nuevos estudiantes.
 2. **Ingresar o actualizar calificación**: Añadir una nueva calificación o actualizar una existente.
