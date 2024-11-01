@@ -11,7 +11,6 @@ Este proyecto es una aplicación de consola desarrollada en Java para gestionar 
 - **Eliminar estudiantes**: Elimina a un estudiante registrado en el sistema.
 
 ## Estructura del Proyecto
-
 ### Clase `Estudiante`
 
 La clase `Estudiante` encapsula la información de cada estudiante y sus calificaciones.
